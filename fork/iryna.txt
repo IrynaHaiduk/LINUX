@@ -1,0 +1,2 @@
+  PID TTY           TIME CMD
+25826 ttys074    0:00.26 -zsh
